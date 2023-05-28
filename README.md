@@ -72,7 +72,7 @@
 
 <p align="center">
   <a href="https://github.com/mkbenneh">
-    <img src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=mkbenneh&color=blue&style=flat)" />
   </a>
 </p>
 <!--
