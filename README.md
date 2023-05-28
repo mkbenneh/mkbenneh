@@ -59,7 +59,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mkbenneh&theme=transparent" />
   </a>
   <a href="https://github.com/mkbenneh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wervlad&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkbenneh&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/mkbenneh">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mkbenneh&theme=transparent" />
@@ -86,3 +86,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![logo](https://github.com/mkbenneh/mkbenneh/assets/56919864/0ca1235f-9cf0-46cd-8e0e-af17a8df7329)
