@@ -5,7 +5,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Michael Kwadwo Benneh.<br>
-        Currently learning to walk in ML/DL/AI without falling on my bottom.<br>
+        Currently learning to walk in ML/DL/AI/DA without falling on my bottom.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/michael-kwadwo-benneh-7284a912b">
